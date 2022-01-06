@@ -2,72 +2,72 @@
 This project is to help client in predicting the donor indicator that guides them to allocate their limited resources more efficiently by contacting the most positive prospects.
 
 # Data Dictionary to help to understand the features better 
-ID
+ID: 
 the unique identifier for each constituent
 
-ZIPCODE
+ZIPCODE: 
 the ZIP code for the constituent
 
-AGE
+AGE: 
 the age of the constituent
 
-MARITAL_STATUS
+MARITAL_STATUS: 
 the marital status of the constituent
 
-GENDER
+GENDER: 
 the gender of the constituent
 
-MEMBERSHIP_IND
+MEMBERSHIP_IND: 
 a binary flag indicating if a constituent is a radio member
 
-ALUMNUS_IND
+ALUMNUS_IND: 
 a binary flag indicating if a constituent is an alumnus
 
-PARENT_IND
+PARENT_IND: 
 a binary flag indicating if a constituent is a parent
 
-HAS_INVOLVEMENT_IND
+HAS_INVOLVEMENT_IND: 
 a binary flag indicating if a constituent has an involvement code
 
-WEALTH_RATING
+WEALTH_RATING: 
 a descriptive factor with the results of a wealth screen
 
-DEGREE_LEVEL
+DEGREE_LEVEL: 
 the degree level of the constituent if they are an alumnus
 
-PREF_ADDRESS_TYPE
+PREF_ADDRESS_TYPE: 
 the preferred address type for the constituent
 
-EMAIL_PRESENT_IND
+EMAIL_PRESENT_IND: 
 a binary flag indicating if an email address is present
 
-CON_YEARS
+CON_YEARS: 
 consecutive giving years
 
-PrevFYGiving
+PrevFYGiving: 
 the fiscal year giving for the previous fiscal year
 
-PrevFY1Giving
+PrevFY1Giving: 
 the fiscal year giving for the year before the previous fiscal year
 
-PrevFY2Giving
+PrevFY2Giving: 
 the fiscal year giving for two years before the previous fiscal year
 
-PrevFY3Giving
+PrevFY3Giving: 
 the fiscal year giving for three years before the previous fiscal year
 
-PrevFY4Giving
+PrevFY4Giving: 
 the fiscal year giving for four years before the previous fiscal year
 
-CurrFYGiving
+CurrFYGiving: 
 the fiscal year giving for the current fiscal year
 
-TotalGiving
+TotalGiving: 
 the total giving for the constituent
 
-DONOR_IND
+DONOR_IND: 
 a binary flag indicating if a constituent is a donor
 
-BIRTH_DATE
+BIRTH_DATE: 
 the birth date for the constituent
 
