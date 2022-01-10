@@ -36,8 +36,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 <img width="896" alt="image" src="https://user-images.githubusercontent.com/48637798/148804249-74a91805-737a-4b00-8a87-2ec9efb1e0ec.png">
 
-<img width="647" alt="image" src="https://user-images.githubusercontent.com/48637798/148805268-3b5e8bc0-f01f-4426-a796-13edd60d1b32.png">
-https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/RedCrossDonorAnalysis/Story1?publish=yes
 
 
 
@@ -51,7 +49,8 @@ https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/RedCrossDonorA
 ## Machine Learning Models and Evaluation
 <img width="932" alt="image" src="https://user-images.githubusercontent.com/48637798/148804820-8fff83fe-6440-4ba8-ad2c-ea2cf30fb873.png">
 
-
+## Link to Tableau
+https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/RedCrossDonorAnalysis/Story1?publish=yes
 
 
 
