@@ -13,7 +13,8 @@
 ## Exploratory Data Analysis
 <img width="845" alt="image" src="https://user-images.githubusercontent.com/48637798/148803278-024e2802-5e53-462b-8450-659e7e4bd40f.png">
 <img width="187" alt="image" src="https://user-images.githubusercontent.com/48637798/148803318-547cc3cb-9780-463d-a336-3e64564d107a.png">
-<img width="559" alt="image" src="https://user-images.githubusercontent.com/48637798/148803354-007b11f3-2983-4006-9172-bbeea6c0bd38.png">
+<img width="559" alt="image" src="https://user-images.githubusercontent.com/48637798/148803354-007b11f3-2983-4006-9172-bbeea6c0bd38.png"><img width="788" alt="image" src="https://user-images.githubusercontent.com/48637798/148992580-863c26a7-07c3-4e2c-9504-aa39d26db7c0.png">
+
 <img width="220" alt="image" src="https://user-images.githubusercontent.com/48637798/148803415-1a1190e8-5332-4146-8ab8-d0878469f7b6.png">
 <img width="220" alt="image" src="https://user-images.githubusercontent.com/48637798/148803438-528883f9-a438-4a70-87a9-113d91421310.png">
 
